@@ -22,3 +22,5 @@ Please add
 optional float decay_mult2 = 5 [default = 0.0];
 ```
 to `message ParamSpec` in `caffe/src/proto/caffe.proto`
+
+and replace the `sgd_solver.cpp` and `net.cpp`.
