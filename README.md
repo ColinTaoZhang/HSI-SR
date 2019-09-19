@@ -6,6 +6,7 @@ If you find our work useful in your research or publication, please cite our wor
 
 [1] Ying Fu, Tao Zhang, Yinqiang Zheng, Debing Zhang, and Hua Huang, "Hyperspectral Image Super-Resolution with Optimal RGB Guidance", CVPR 2019.
 
+'''
 @InProceedings{Fu_2019_CVPR,
   author = {Fu, Ying and Zhang, Tao and Zheng, Yinqiang and Zhang, Debing and Huang, Hua},
   title = {Hyperspectral Image Super-Resolution with Optimal RGB Guidance},
@@ -13,7 +14,17 @@ If you find our work useful in your research or publication, please cite our wor
   month = {June},
   year = {2019}
 }
+'''
 
 Please add 
+'''
 optional float decay_mult2 = 5 [default = 0.0];
-to message ParamSpec in caffe/src/proto/caffe.proto
+'''
+to
+'''
+message ParamSpec
+'''
+in 
+'''
+caffe/src/proto/caffe.proto
+'''
