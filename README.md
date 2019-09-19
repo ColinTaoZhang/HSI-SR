@@ -16,6 +16,7 @@ If you find our work useful in your research or publication, please cite our wor
 }
 ```
 
+## Note
 Please add 
 ```
 optional float decay_mult2 = 5 [default = 0.0];
