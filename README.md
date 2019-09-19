@@ -1,4 +1,4 @@
-Hyperspectral Image Super-Resolution with Optimal RGB Guidance
+# Hyperspectral Image Super-Resolution with Optimal RGB Guidance
 
 This repository is a Caffe implementation of the paper "Hyperspectral Image Super-Resolution with Optimal RGB Guidance" from CVPR 2019
 
